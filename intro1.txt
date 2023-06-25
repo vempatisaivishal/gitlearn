@@ -1,0 +1,6 @@
+version control is different versions different way saved checkpoints
+//git init to initialize repository
+//ls to see files
+//git status to understanding present scenario
+//git add sends to staging area
+//commit is made a checkpoints
