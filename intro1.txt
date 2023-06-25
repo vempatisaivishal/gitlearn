@@ -7,3 +7,5 @@ version control is different versions different way saved checkpoints
 //git add. is all adding
 //git log when we made changes
 //git checkout will make to back commit
+//git diff see changes
+//git remote add origin
