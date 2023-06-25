@@ -4,3 +4,6 @@ version control is different versions different way saved checkpoints
 //git status to understanding present scenario
 //git add sends to staging area
 //commit is made a checkpoints
+//git add. is all adding
+//git log when we made changes
+//git checkout will make to back commit
