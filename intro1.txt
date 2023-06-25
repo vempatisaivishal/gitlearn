@@ -9,4 +9,5 @@ version control is different versions different way saved checkpoints
 //git checkout will make to back commit
 //git diff see changes
 //git remote add origin
+//put git branch main
 //git push -u origin main
